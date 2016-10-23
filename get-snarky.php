@@ -411,8 +411,9 @@ class Get_Snarky
             'Dating Tip: When asked for your "People/Celebrities You\'re Allowed to Sleep With" list, don\'t fill it with people you actually know.',
             'We have determined to hash out our differences over Percocet and whores.',
             'You can prevent crying while peeling onions by chewing gum. You can prevent crying in other situations by not being such a little bitch.',
-            'Emo: It\'s Like Goth, But For Pussies'
-
+            'Emo: It\'s Like Goth, But For Pussies',
+            'Never raise your hand to a kid, it leaves your privates unprotected.',
+            'Make going the fuck away great again',
             );
 
         // now we get one at random
